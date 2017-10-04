@@ -1,0 +1,65 @@
+body{
+  background: black;
+}
+
+.encabezado{
+  height: 100%;
+  padding-top: 1%;
+
+  background: #039be5;
+}
+
+#cabecera{
+  padding-top: 1%;
+
+}
+.menu{
+  padding-top: 10px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.brand-logo{
+  display: block;
+  border-radius: 10px;
+
+  margin: 5px;
+}
+
+.slogan{
+  font-style: italic;
+  text-shadow: 2px 2px 2px #02010a;
+}
+
+.galeria{
+  background: url(../img/fotos-paisaje.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  opacity: 0.8;
+  background-repeat: round;
+}
+
+.fotos{
+  padding: 5%;
+  width: 100%;
+}
+
+#foto_centro{
+  width: ;
+}
+
+.foto-blog{
+  display: block;
+  margin: 4%;
+  float: left;
+}
+
+h5{
+  padding-top: 2%;
+  padding-bottom: 2%;
+  text-shadow: 2px 2px 2px #02010a;
+}
+
+#perfil{
+  width: 40%;
+}
